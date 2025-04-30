@@ -1,5 +1,5 @@
 ## Olá!Sou o Daniel 👋
-•🎓​ Estou no primeiro semestre da faculdade.
+•🎓​ Estou no primeiro semestre da faculdade.  
 ​•📚​ Aprendendo : Banco de Dados, C# ( Console do Aplicativo e API Web ).
 
 ### Meios de Comunicação
