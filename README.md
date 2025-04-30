@@ -1,10 +1,11 @@
 ## Olá!Sou o Daniel 👋
 🎓​ Estou no primeiro semestre da faculdade.
-​📚​ Aprendendo : Banco de Dados, C# ( Console do Aplicativo e API Web )
+​
+📚​ Aprendendo : Banco de Dados, C# ( Console do Aplicativo e API Web ).
 
 ### Meios de Comunicação
 [![Instagram](https://img.shields.io/badge/Instagram-@danielzinrx-FF69B4?style=for-the-badge&logo=instagram)](https://instagram.com/danielzinrx)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanielSantos-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/danielssantosrx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanielSantos-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/danielssantosrx)
 
 #### Estatísticas do GitHub
 ![danielzinrx GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielzinrx&show_icons=true&theme=radical)
