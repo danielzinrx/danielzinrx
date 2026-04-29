@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Daniel 👋</h1>
 
 <p align="center">
-  <em>Estudante de Engenharia de Software · Entusiasta de APIs · Buscando meu primeiro estágio</em>
+  <em>Engenheiro de Software · Entusiasta de APIs · Buscando meu primeiro estágio</em>
 </p>
 
 <p align="center">
