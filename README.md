@@ -40,6 +40,8 @@
 
 ### 💰 [GastoCerto](https://github.com/danielzinrx/gastocerto)
 > Projeto pessoal de controle financeiro — organização de gastos de forma simples e prática.
+### ✝ [GrupoJLM] (https://github.com/danielzinrx/jovens_luz_do_mundo)
+> Projeto para grupo jovem - vida espiritual na palma da mão, com orações, terço e a bíblia.
 
 ---
 
